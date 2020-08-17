@@ -1,2 +1,2 @@
 # PROJECTS
-A repo for some fre style projects
+A repo for some free-style projects
