@@ -1,2 +1,2 @@
-# PYTHON-PROJECTS
-A repo for my python projects
+# PROJECTS
+A repo for some fre style projects
